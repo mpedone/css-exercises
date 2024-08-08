@@ -13,11 +13,13 @@ body {
 .title {
   background: #e3f4ff;
   padding: inherit;
+  margin-bottom: 10px;
 }
 
 .content {
   background: #e3f4ff;
   padding: inherit;
+  margin-bottom: 10px;
 }
 
 .button-container {
