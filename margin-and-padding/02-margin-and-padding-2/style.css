@@ -13,7 +13,7 @@ body {
 .title {
   background: #e3f4ff;
   padding: 8px;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
   font-size: 16px;
 }
 
@@ -33,6 +33,6 @@ button {
   background: white;
   border: 1px solid #eee;
   display: block;
-  margin: auto;
+  margin: 0 auto;
   padding: 8px 24px;
 }
